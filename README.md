@@ -6,6 +6,8 @@ Smart brain is a Face Detection app used Clarifai Api ..
 
 Use the package manager [npm](https://www.npmjs.com/) to install Smart Brain.
 
-Run ```bash
+Run
+```bash
 npm install
-``` to get started
+```
+to get started
